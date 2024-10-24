@@ -18,7 +18,5 @@ A villa booking system built with HTML, CSS, JavaScript, Node.js, and MongoDB is
    - **Booking System**: Users can book villas, check availability, and make payments.
    - **Admin Panel**: Admins can manage villa listings, view bookings, and handle user queries.
 
-### 5. **Deployment**:
-   - The application can be deployed on cloud platforms like Heroku, AWS, or DigitalOcean, ensuring accessibility for users worldwide.
 
 This system can be enhanced with additional features like payment processing, user reviews, and a notification system for bookings and cancellations.
